@@ -5,5 +5,5 @@
 5. Modify the image in a fashion similar to part #2, but replace each image block/tile by a filtered version of the block, instead of a different color-channel version of the block.
 6. Combine everything, to create a version.
 
-To run the script:
-python image_manipulation and_filtering.py images/cat.jpg 100
+**To run the script**:
+`python image_manipulation and_filtering.py images/cat.jpg 100`
