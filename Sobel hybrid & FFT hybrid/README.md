@@ -6,7 +6,21 @@
 `python3 fourier_transform_and_hybrid_images.py images_for_hybrid/marilyn.jpg images_for_hybrid/einstein.jpg`
 
 # Example
-
+<p align="center">
+  <img src="./images_for_hybrid/cat.jpg" width="300" title="hover text">
+  <img src="./images_for_hybrid/fft_hybrid1.png" width="300" title="hover text">
+  <img src="./images_for_hybrid/dog.jpg" width="300" title="hover text">
+</p>
+<p align="center">
+  <img src="./images_for_hybrid/rhino.jpg" width="300" title="hover text">
+  <img src="./images_for_hybrid/fft_hybrid2.png" width="300" title="hover text">
+  <img src="./images_for_hybrid/car.jpg" width="312.5" title="hover text">
+</p>
+<p align="center">
+  <img src="./images_for_hybrid/einstein.jpg" width="300" title="hover text">
+  <img src="./images_for_hybrid/fft_hybrid3.png" width="300" title="hover text">
+  <img src="./images_for_hybrid/marilyn.jpg" width="275" title="hover text">
+</p>
 
 # Guide
 
