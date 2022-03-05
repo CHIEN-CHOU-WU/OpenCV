@@ -7,19 +7,19 @@
 
 # Example (Fourier Transform Hybrid Only)
 <p align="center">
-  <img src="./images_for_hybrid/cat.jpg" width="300" title="hover text">
-  <img src="./images_for_hybrid/fft_hybrid1.png" width="300" title="hover text">
-  <img src="./images_for_hybrid/dog.jpg" width="300" title="hover text">
+  <img src="./images_for_hybrid/cat.jpg" width="300" title="cat">
+  <img src="./images_for_hybrid/fft_hybrid1.png" width="300" title="hybrid image">
+  <img src="./images_for_hybrid/dog.jpg" width="300" title="dog">
 </p>
 <p align="center">
-  <img src="./images_for_hybrid/rhino.jpg" width="300" title="hover text">
-  <img src="./images_for_hybrid/fft_hybrid2.png" width="300" title="hover text">
-  <img src="./images_for_hybrid/car.jpg" width="312.5" title="hover text">
+  <img src="./images_for_hybrid/rhino.jpg" width="300" title="rhino">
+  <img src="./images_for_hybrid/fft_hybrid2.png" width="300" title="hybrid image">
+  <img src="./images_for_hybrid/car.jpg" width="312.5" title="car">
 </p>
 <p align="center">
-  <img src="./images_for_hybrid/einstein.jpg" width="300" title="hover text">
-  <img src="./images_for_hybrid/fft_hybrid3.png" width="300" title="hover text">
-  <img src="./images_for_hybrid/marilyn.jpg" width="275" title="hover text">
+  <img src="./images_for_hybrid/einstein.jpg" width="300" title="einstein">
+  <img src="./images_for_hybrid/fft_hybrid3.png" width="300" title="hybrid image">
+  <img src="./images_for_hybrid/marilyn.jpg" width="275" title="marilyn">
 </p>
 
 # Guide
