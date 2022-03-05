@@ -1,11 +1,14 @@
-**To run the script:**
+# **To run the script:**
 `python3 fourier_transform_and_hybrid_images.py images_for_hybrid/cat.jpg images_for_hybrid/dog.jpg`
 
 `python3 fourier_transform_and_hybrid_images.py images_for_hybrid/car.jpg images_for_hybrid/rhino.jpg`
 
 `python3 fourier_transform_and_hybrid_images.py images_for_hybrid/marilyn.jpg images_for_hybrid/einstein.jpg`
 
-**Problems  (50 points):**
+# Example
+
+
+# Guide
 
 Note, given you're familiarity with Sobel filters, I anticipate that implementing Sobel hybrid images (parts 1-4) shouldn't take you too long.  The Fourier hybrid implementation and experimentation on various parameter values may well take a while though.
 
