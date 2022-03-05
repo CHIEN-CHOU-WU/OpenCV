@@ -5,7 +5,7 @@
 
 `python3 fourier_transform_and_hybrid_images.py images_for_hybrid/marilyn.jpg images_for_hybrid/einstein.jpg`
 
-# Example
+# Example (Fourier Transform Hybrid Only)
 <p align="center">
   <img src="./images_for_hybrid/cat.jpg" width="300" title="hover text">
   <img src="./images_for_hybrid/fft_hybrid1.png" width="300" title="hover text">
